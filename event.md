@@ -174,8 +174,9 @@ footer: '<b>【Date】</b>2025-07-12 　<b>【Author】</b>Yugeta.Koji'
 
 |||
 |:-:|:--|
-|Name|弓削田公司（ゆげたこうじ）|
-|Job|株式会社 MYNT 代表取締役|
+|何者|弓削田公司（ゆげたこうじ）|
+|肩書|IT何でも屋|
+|所属|株式会社 MYNT 代表取締役|
 |Web|https://myntinc.com|
 |<img class="icon" src="img/blogger.svg">|<a class="flex" href="https://blog.myntinc.com">https://blog.myntinc.com</a>|
 |<img class="icon" src="img/facebook.svg">|<a class="flex" href="https://www.facebook.com/yugeta.koji">https://www.facebook.com/yugeta.koji</a>|
